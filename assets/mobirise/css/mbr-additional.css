@@ -713,14 +713,14 @@ section.lazy-placeholder:after {
 
 .cid-rY1G3z8Ros {
 @showLogo: true;
-@logoSize: 3.8;
+@logoSize: 5.3;
 @showBrand: true;
 @showItems: true;
 @itemsHoverColor: #c1c1c1;
 @showButtons: false;
 @sticky: false;
 @collapsed: true;
-@transparent: false;
+@transparent: true;
 @hamburgerColor: #ffffff;
 @menuBgColor: #333333;
 
@@ -1147,16 +1147,16 @@ nav.opened .hamburger span {
 @showSubTitle: true;
 @showText: true;
 @showButtons: false;
-@uname__12: "file:///C:/Users/bacho/Downloads/store-template/assets/images/igor-son-320878.jpg";
+@uname__12: "file:///C:/Users/bacho/Downloads/store-template/assets/images/devan-freeman-2166.jpg";
 @uname__13: true;
 @uname__14: #073b4c;
-@bg-value: "file:///C:/Users/bacho/Downloads/store-template/assets/images/igor-son-320878.jpg";
+@bg-value: "file:///C:/Users/bacho/Downloads/store-template/assets/images/devan-freeman-2166.jpg";
 @bg-type: "image";
 @bg-color-value: #073b4c;
 @bg-parallax: true;
 @overlay: true;
 @overlayColor: #767676;
-@overlayOpacity: 0.8;
+@overlayOpacity: 0.4;
 
 & when not (@fullScreen) {
   padding-top: (@paddingTop * 15px);
