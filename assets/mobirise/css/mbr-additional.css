@@ -906,7 +906,7 @@ padding-bottom: (@paddingBottom * 15px);
 .cid-rYp5y9GzX9 {
 @showLogo: true;
 @logoSize: 3.8;
-@showBrand: false;
+@showBrand: true;
 @showItems: true;
 @itemsHoverColor: #767676;
 @showButtons: false;
