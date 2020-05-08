@@ -715,12 +715,12 @@ section.lazy-placeholder:after {
 @showLogo: true;
 @logoSize: 3.8;
 @showBrand: true;
-@showItems: false;
+@showItems: true;
 @itemsHoverColor: #c1c1c1;
 @showButtons: false;
 @sticky: false;
 @collapsed: true;
-@transparent: true;
+@transparent: false;
 @hamburgerColor: #ffffff;
 @menuBgColor: #333333;
 
@@ -1139,7 +1139,7 @@ nav.opened .hamburger span {
 }
 
 .cid-qyvHxX98kc {
-@fullScreen: false;
+@fullScreen: true;
 @paddingTop: 9;
 @paddingBottom: 9;
 @showArrow: false;
